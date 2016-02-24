@@ -1,0 +1,19 @@
+{
+  "name": "jmbootstrap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "abdel.aithadji@behance.net",
+  "license": "ISC",
+  "devDependencies": {
+    "bourbon": "^4.2.6",
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-bootlint": "^0.7.1",
+    "gulp-minify-css": "^1.2.3",
+    "gulp-sass": "^2.2.0"
+  }
+}
